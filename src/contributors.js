@@ -1185,5 +1185,7 @@ export const contributors = [
     github_username: "javed-ak",
     favorite_coding_stack: ["ReactJS", "NextJS", "JavaScript", "TypeScript", "NodeJS"],
     about_me: "Hii, I'm a Fullstack Developer",
+    location: "Delhi, India",
+    favorite_emoji: "😉",
   },
 ];
